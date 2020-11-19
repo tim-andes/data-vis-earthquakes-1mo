@@ -7,5 +7,4 @@ Instructions:
 2. Run code ('Shift + F10' in Python, 'F5' in Spyder; click 'Run')
 3. World Map with visualization of data should automatically open in your browser.
 
-![Sample screenshot of Earthquake World Map Visualization]
-(https://github.com/tim-andes/data-vis-earthquakes-1mo/blob/main/eq_img_sample.png)
+![Sample screenshot of Earthquake World Map Visualization](https://github.com/tim-andes/data-vis-earthquakes-1mo/blob/main/eq_img_sample.png)
