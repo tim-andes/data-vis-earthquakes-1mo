@@ -5,7 +5,7 @@ Instructions:
 
 1. Open .py file in an IDE (like PyCharm, Sublime, Spyder)
 2. Run code ('Shift + F10' in Python, 'F5' in Spyder; click 'Run')
-3. World Map with visualization of data should automatically open in your browser.
+3. A World Map with visualization of data and interactive markers should automatically open in your browser.
 
 
 Example:
