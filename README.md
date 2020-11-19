@@ -12,4 +12,4 @@ Example:
 
 ![Sample screenshot of Earthquake World Map Visualization](https://github.com/tim-andes/data-vis-earthquakes-1mo/blob/main/eq_img_sample.png)
 
-Note: Data collected 11/19/2020.
+Note: Data collected 11/19/2020
