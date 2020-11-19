@@ -25,7 +25,7 @@ data = [{
     'lat': lats,
     'text': hover_texts,
     'marker': {
-        'size': [1.7**mag if mag > 0 else mag*0 for mag in mags],
+        'size': [mag**1.8 if mag > 0 else mag*0 for mag in mags],
         'color': mags,
         'colorscale': 'viridis',
         'reversescale': True,
